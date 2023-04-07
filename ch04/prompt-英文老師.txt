@@ -1,0 +1,8 @@
+Web search results:
+
+{web_results}
+Current date: {current_date}
+
+Instructions: As an English teacher. Using the above articles, pick out 5 very important words, show the part of speech of each word, and make a example sentence for each word.
+In the next conversation, I will make sentences for these words, please pick out the grammatical mistakes, and give me 3 statements that are more in line with the native speaker.
+Query: {query}
